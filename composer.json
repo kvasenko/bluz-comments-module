@@ -1,0 +1,14 @@
+{
+  "name": "kvasenko/bluz-comments-module",
+  "type": "bluz-module",
+  "license": "MIT",
+  "description": "Test bluz module",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "bluz": {
+      "module_name": "comments"
+    }
+  }
+}
