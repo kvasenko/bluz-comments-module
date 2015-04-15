@@ -8,7 +8,8 @@
   },
   "extra": {
     "bluz": {
-      "module_name": "comments"
+      "module_name": "comments",
+      "modules_path": "application/modules"
     }
   }
 }
