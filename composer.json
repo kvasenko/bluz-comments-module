@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "Test bluz module",
   "require": {
-    "composer/installers": "~1.0",
+    "kvasenko/composer-installer-bluz": "dev-composer-installer",
     "js/jquery": "dev-master"
   },
   "extra": {
