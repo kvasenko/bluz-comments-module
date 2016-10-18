@@ -4,8 +4,7 @@
   "license": "MIT",
   "description": "Test bluz module",
   "require": {
-    "composer/installers": "~1.0",
-    "js/jquery": "dev-master",
+    "js/jquery": "dev-master"
   },
   "extra": {
     "bluz": {
