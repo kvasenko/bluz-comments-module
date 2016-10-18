@@ -1,6 +1,7 @@
 {
   "name": "kvasenko/bluz-comments-module",
   "type": "bluz-module",
+  "minimum-stability": "dev",
   "license": "MIT",
   "description": "Test bluz module",
   "require": {
