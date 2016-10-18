@@ -7,6 +7,12 @@
     "kvasenko/composer-installer-bluz": "dev-composer-installer",
     "js/jquery": "dev-master"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/kvasenko/composer-installer-bluz"
+    },
+  ],
   "extra": {
     "bluz": {
       "module_name": "comments",
